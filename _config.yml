@@ -1,0 +1,5 @@
+title: Placeholder Site
+markdown: kramdown
+theme: minima
+plugins:
+  - jekyll-feed
